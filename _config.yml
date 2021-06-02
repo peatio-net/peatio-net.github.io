@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digital Monetary Fund
+title: Peatio Network
 email: info@digitalmonetary.fund
 description: Digital Monetary Fund aims to link national fiat currencies with smart and stable block-chain based crypto currencies.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://www.digitalmonetary.fund # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.peatio.net # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DigitalMoneyFnd
 github_username:  Digital-Monetary-Fund
 
 avatar: "/favicon.png"
 
 # Your name to show in the footer
-author: Digital Monetary Fund DAO team
+author: Peatio Community Network
 
 # Build settings
 theme: minima
