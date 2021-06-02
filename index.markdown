@@ -5,8 +5,11 @@
 layout: home
 ---
 
+In 2015 the Peatio crypto exchange platform was released as an open-source project.
 
-![DAO](/assets/logo.png)
+**Peatio Blockchain Resources Network:** A collection of open-source resources for Digital Asset Exchanges based on the Peatio project.
+
+We are working to deploy shared blockchain nodes for Peatio exchanges.
 
 <style type="text/css">
     .tg {
@@ -16,14 +19,14 @@ layout: home
 
     .tg td {
         border-width: 1px;
-        font-size: 14px;
+        font-size: 20px;
         overflow: hidden;
         padding: 10px 5px;
         word-break: normal;
     }
 
     .tg th {
-        font-size: 14px;
+        font-size: 20px;
         overflow: hidden;
         padding: 10px 5px;
         word-break: normal;
@@ -47,12 +50,6 @@ layout: home
         </tr>
     </tbody>
 </table>
-
-In 2015 the Peatio crypto exchange platform was released as an open-source project.
-
-**Peatio Blockchain Resources Network:** A collection of open-source resources for Digital Asset Exchanges based on the Peatio project.
-
-We are working to deploy shared blockchain nodes for Peatio exchanges.
 
 We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trust-less monetary system.
 
