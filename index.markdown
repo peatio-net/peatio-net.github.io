@@ -1,6 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults  
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults 
 
 layout: home
 ---
@@ -11,8 +11,6 @@ We are working to deploy shared blockchain nodes for Peatio exchanges.
 
 We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trust-less monetary system.
 
-Visit our Github repositories to contribute and download Peatio marlet-making and upstream bots: <a href="https://github.com/peatio-net" target="_blank">https://github.com/peatio-net</a>
+Visit our Github repositories to contribute and download Peatio market-making and upstream bots: <a href="https://github.com/peatio-net" target="_blank">https://github.com/peatio-net</a>
 
-#![DAO](/assets/dao-2.png)
-
-
+# ![DAO](/assets/dao-2.png)
