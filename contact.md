@@ -1,20 +1,17 @@
 ---
 layout: page
 title: Contact
-subtitle: Contact details for the Digital Monetary Fund team
+subtitle: Contact details for the Peatio Network team
 navigation_weight: 2
 permalink: /contact/
 ---
 
-Our Address :- Avenue de Tervueren 142, 
-1150 Bruxelles, 
-Belgium
 
-General enquiries please email <a href="mailto: info@digitalmonetary.fund">info@digitalmonetary.fund</a>
+General enquiries please email <a href="mailto: info@peatio.net">info@peatio.net.fund</a>
 
-Email our Treasury staff about liquidity or market-making operations.<a href="mailto: markets@digitalmonetary.fund">markets@digitalmonetary.fund</a>
+Email our Treasury staff about liquidity or market-making operations.<a href="mailto: markets@peatio.net">markets@digitalmonetary.fund</a>
 
-For Support or technical enquiries email the Help Desk. <a href="mailto: support@digitalmonetary.fund">support@digitalmonetary.fund</a>
+For Support or technical enquiries email the Help Desk. <a href="mailto: support@peatio.net">support@digitalmonetary.fund</a>
  
 Subscribe to our Discord channel: <a href="https://discord.gg/68QCmgFhgH" target="_blank">https://discord.gg/DigitalMonetaryFund</a> for general and community-based support.
  

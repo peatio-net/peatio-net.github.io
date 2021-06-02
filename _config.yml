@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Peatio Network
-email: info@digitalmonetary.fund
+email: info@peatio.net
 description: Digital Monetary Fund aims to link national fiat currencies with smart and stable block-chain based crypto currencies.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.peatio.net # the base hostname & protocol for your site, e.g. http://example.com
@@ -108,7 +108,7 @@ exclude:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: info@digitalmonetary.fund
+  email: info@peatio.net
   facebook: Digital-Monetary-Fund-111060390635996
   github: digital-monetary-fund
   twitter: MonetaryDigital
@@ -146,7 +146,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "DigitalMonetary.Fund"
+url-pretty: "peatio.net"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
