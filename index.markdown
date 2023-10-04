@@ -1,16 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults 
-
 layout: home
 ---
-
-In 2015 the Peatio crypto exchange platform was released as an open-source project.
-
-**Peatio Blockchain Resources Network:** A collection of open-source resources for Digital Asset Exchanges based on the Peatio project.
-
-We are working to deploy shared blockchain nodes for Peatio exchanges.
-
+**Peatio Cryptocurrency Exchange DAO** A collection of open-source resources for Digital Asset Exchanges based on the Peatio project.
 <style type="text/css">
     .tg {
         border-collapse: collapse;
@@ -51,8 +42,12 @@ We are working to deploy shared blockchain nodes for Peatio exchanges.
     </tbody>
 </table>
 
-We will do this by using blockchain digital assets and networks for an inflation-proof, transparent and trust-less monetary system.
+In 2015 the Peatio crypto exchange platform was released as an open-source project. Helios/Openware took over development of the Peatio project around 2017, and significantly extended and enhanced the platform.
 
-Visit our Github repositories to contribute and download Peatio market-making and upstream bots: <a href="https://github.com/peatio-net" target="_blank">https://github.com/peatio-net</a>
+In 2023 Openware/Yellow developed a proprietory exchange platform and ceased work on th ePeatio/Opendax project.
+The Peatio DAO is dedicated to further developing, maintaining and supporting the Peatio platform as an open-source project.
 
+Visit our Github repositories to contribute and download Peatio: <a href="https://github.com/peatio-net" target="_blank">https://github.com/peatio-net</a>
+
+Join our Telegram Group for updates and to participate in the project: <a href="https://t.me/peatio_dao" target="_blank">https://t.me/peatio_dao</a>
 
