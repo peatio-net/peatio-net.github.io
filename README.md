@@ -1,8 +1,9 @@
-# Digital-Monetary-Fund.github.io
-Digital-Monetary-Fund.github.io
+# Welcome to Peatio cryptocurrency exchange project website
 
-bundle exec jekyll serve
-http://127.0.0.1:4000/
+The Peatio DAO aims to continue development and support for this popular open-source cryptocurrency exchange platform.
 
-https://digital-monetary-fund.github.io/
+View our Github Repositories:
+(https://github.com/peatio-net))
 
+Join our Telegram Group for updates:
+(https://t.me/peatio_dao)
